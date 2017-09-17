@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserTest</string>
+    <string name="toolbar_title">Users Test</string>
+    <string name="send_email">Send Email</string>
+    <string name="email">Email</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="hobbies">Hobbies</string>
+</resources>
